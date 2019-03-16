@@ -1,18 +1,19 @@
 h1 {
-  
+  color: blue;
+  text-align: center;
 }
 h2 {
-
+  color: magenta;
 }
 h3 {
-
+  color: yellow;
 }
 h4 {
-
+  color: purple;
 }
 h5 {
-
+  color: red;
 }
 h6 {
-
+  color: green;
 }
