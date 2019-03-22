@@ -26,11 +26,23 @@ li a:hover {
   width: 210px;
   height: 300px;
   background-color: #215591;
+  color: #FFFFFF;
   float:left;
 }
 #capa2{
   width:210px;
   height: 300px;
   background-color:#AC2939;
+  color: #FFFFFF;
+  float: right;
+  margin-left: 10px;
+}
+#capa3{
+  width:100%;
+  height: 30px;
+  background-color:#D49E7C;
+  color: #FFFFFF;
   float: left;
+  clear: both;
+  margin-top: 10px;
 }
