@@ -46,3 +46,35 @@ li a:hover {
   clear: both;
   margin-top: 10px;
 }
+#container{
+  width: 900px;
+  height: 400px;
+}
+#header{
+  color: #FFFFFF;
+  background-color: #dfb8a8;
+  height: 50px;
+  padding: 5px;
+}
+#sidebar{
+  color: #FFFFFF;
+  background-color: #fbe6bb;
+  float: left;
+  width: 140px;
+  height: 100%;
+  padding: 5px;
+}
+#content{
+  color: #FFFFFF;
+  background-color: #f2bd5e;
+  float: left;
+  width: 740px;
+  height: 100%;
+  padding: 5px;
+}
+#foot{
+  color: #FFFFFF;
+  background-color: #6d3934;
+  clear: both;
+  padding: 5px;
+}
